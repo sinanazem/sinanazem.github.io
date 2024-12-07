@@ -14,6 +14,3 @@ This project is a static site hosted on GitHub Pages, providing a brief introduc
 
 You can view the live site at [sinanazem.github.io](https://sinanazem.github.io).
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
