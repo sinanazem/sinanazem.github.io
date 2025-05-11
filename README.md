@@ -1,4 +1,4 @@
-# sinanazem.github.io
+# sinanazem
 
 Welcome to my personal website repository! 👋
 
